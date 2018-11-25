@@ -1,0 +1,1 @@
+This Addon is only an updated version of the ChatTime Addon. The Original was created by TebosBrime (Link to Original: https://github.com/TebosBrime/ChatTime). The old version is for MC 1.8 this version is updated to MC 1.12.
