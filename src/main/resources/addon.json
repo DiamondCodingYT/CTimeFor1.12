@@ -1,0 +1,11 @@
+
+{
+  "uuid": "%uuid%",
+  "name": "ChatTime 1.12",
+  "mainClass": "de.diaondCoding.chatTime.ChatTimeAddon",
+  "description": "Displays the current time in front of every chat message.\n+add: hover events!",
+  "version": 1,
+  "author": "TebosBrime updated to 1.12 by DiamondCoding",
+  "category": 2,
+  "icon": "https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/thumb/archive/3/35/20110330172024%21Clock.png/120px-Clock.png"
+}
